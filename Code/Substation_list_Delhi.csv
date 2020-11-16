@@ -1,44 +1,44 @@
-,Sr. No,Grid/Sub Stations,Telephone Numbers,Address,Voltage Class
-0,1,Bawana,27791190/1193/1210,"400kV Sub-Station Bawana, Sector-5, DSIIDC Bawana, Bawana, Delhi-110039",400 kV
-1,2,Bamnauli,25314199/25314204,"Village-Bamnauli, P.O. Dhul Sirus, Near Chhawala Camp (BSF), Najafgarh-Bijwasan Road, Delhi-110077",400 kV
-2,3,Harsh Vihar,0120-6500138,"Harsh Vihar, Loni Road (Near Bhopura Chowk), Delhi-110094",400 kV
-3,4,Tikri Kalan(Mundka),65108444/7290010893,"Neewala Village Road, Near Vaishno Devi Mandir, New Delhi-110041",400 kV
-4,1,BTPS,26948637,"Badarpur Thermal Power Station Complex, Badarpur, New Delhi-110044",220 kV
-5,2,DSIDC Bawana,65005603/7290013476,"Near H Block, J.J. colony, Bawana Hanuman Mandir, Bawana,-110039",220 kV
-6,3,DIAL,25655090,"Near IGI Airport, Delhi",220 kV
-7,4,Electric Lane,23329790,"HCM Lane, Behind BSNL Building, Janpath, New Delhi.",220 kV
-8,5,Geeta Colony,22044528,"Near Sai Memorial Public School, Geeta Colony, Delhi -110031",220 kV
-9,6,Gazipur,22770009,"Village Gazipur, Near DDA Janta Flat, Delhi-110096",220 kV
-10,7,Gopalpur,27652190,"Near Burari, Outer Ring Road, Delhi-110009",220 kV
-11,8,Indraprastha,23370325,"IP Station, Delhi-110002",220 kV
-12,9,Khanjawala,25951677/25953185,"Near Police Station & DTC Depott., Ghewra Road, Delhi-110081",220 kV
-13,10,Kashmere Gate,23866577,"Kudasiya Ghat, Opp, I.S.B.T, Kashmeri Gate, Delhi-110006",220 kV
-14,11,Lodhi Road,24362750,"Near CGO Complex, Lodhi Road, New Delhi-110003",220 kV
-15,12,Maharani Bagh,26841323/26341324,"Maharani Bagh, Opp. Sarai Kale Khan ISBT, Behlolpur Khadar, Delhi - 110013",220 kV
-16,13,Masjid Moth,26241262,"Masjid Moth, Outer Ring Road, G.K.-I Near Chirag Delhi Flyover, Delhi-110048.",220 kV
-17,14,Mehrauli,26892360,"Near Vasant Kunj, D-2,, Kishangarh Village, New Delhi-1100­70",220 kV
-18,15,Najafgarh,69999237/69999238,"Opp. Delhi Jal Board Office, New Delhi-110043",220 kV
-19,16,Naraina,25699563,"Behind COD Bus Stand, Ring Road, Naraina, Delhi-Cantt, New Delhi-110010",220 kV
-20,17,Narela,27781434/22781771,"Piyo Maniyari Road, Near Kanya Gurkul, Narela, Delhi-110040",220 kV
-21,18,Okhla,29982007/29985044,"Opp. Pocket A-13, Kalkaji Extension, New Delhi-110019",220 kV
-22,19,Pappankalan-I,25085415/25080740,"Sector-2, Pappankalan, Phase-I, Delhi-110045",220 kV
-23,20,Papankalan-II,24506081,"Near Metro Rail Station, Sector-14, Dwarka, Delhi -110045.",220 kV
-24,21,Papankalan-III,,"Sector-19 B, Dwarka, New Delhi- 110075",220 kV
-25,22,Park Street,23744910/23364916,"Opp. Talkatora Stadium, Near RML Hospital, Park Street, New Delhi- 110001",220 kV
-26,23,Patparganj,22476611/22476241,"Near Mother Diary, Mandawali, Fazalpur, Delhi-110092",220 kV
-27,24,Peeragarhi,"25276576, 25276578-","A-1 Block Near Milansaar Apptt. Opp. A-1/266, Paschim Vihar, New Delhi- 110063",220 kV
-28,25,Pragati,23378308,"Pragti Power Station Complex, IP Estate, Ring Road, Delhi-110002",220 kV
-29,26,Preet Vihar,22372310,"Preet Vihar, Near Kadkadi Mod, Behind (Deepak Memorial Hospital), Delhi-110092",220 kV
-30,27,Rajghat Power House,26895886,"Control Room, Inside Rajghat Power House, New Delhi-110002",220 kV
-31,28,Ridge Valley,24112187,"Dhaula Kaun, Round About, New Delhi- 110021",220 kV
-32,29,Rohini-I,27573965,"Near F-2 Pocket, Rohini, Delhi-110085",220 kV
-33,30,Rohini-II,7428366440,"Phase-IV, Rohini Sector-29, Landmark Opp. CNG Pump Station, Delhi-110085",220 kV
-34,31,R. K. Puram,,"Sector-4, R. K. Puram, Near Sultani Masjid, New Delhi- 110022",220 kV
-35,32,Sarita Vihar,26940624/9643740060,"Opp. Pocket - E, Near Priyanka Complex, Sarita Vihar, Delhi - 110044",220 kV
-36,33,Shalimar Bagh,27854692,"Sector-19, Rohini, Opp. Rohini District, Jail, Delhi-110089",220 kV
-37,34,South of Wazirabad,22855028/22566216,"Opp. ViiI. Garhi, Near Khajuri Khas Chowk, Delhi-110053",220 kV
-38,35,Subzi Mandi,23855513,"Kabir Basti Road, Near Barafkhana Chowk,Subzi Mandi, Delhi-110007",220 kV
-39,36,Trauma Centre,32973334,"GIS, Trauma, IMS Center, Ansari Nagar, West, New Delhi",220 kV
-40,37,Tughlakabad,,"Behind Air Force Residential Quarter, Karni singh, Shooting Range Road (Suraj Kund Road) New Delhi- 110044",220 kV
-41,38,Vasant Kunj,26895886,"C-9 Vasant Kunj, Delhi-110070.",220 kV
-42,39,Wazirpur,27373358/27373359,"A Block, Wazirpur Industrial Area, New Delhi - 110052",220 kV
+Substations,Telephone Numbers,Address,Voltage Class
+Bawana,27791190/1193/1210,"400kV Sub-Station Bawana, Sector-5, DSIIDC Bawana, Bawana, Delhi-110039",400 kV
+Bamnauli,25314199/25314204,"Village-Bamnauli, P.O. Dhul Sirus, Near Chhawala Camp (BSF), Najafgarh-Bijwasan Road, Delhi-110077",400 kV
+Harsh Vihar,0120-6500138,"Harsh Vihar, Loni Road (Near Bhopura Chowk), Delhi-110094",400 kV
+Tikri Kalan(Mundka),65108444/7290010893,"Neewala Village Road, Near Vaishno Devi Mandir, New Delhi-110041",400 kV
+BTPS,26948637,"Badarpur Thermal Power Station Complex, Badarpur, New Delhi-110044",220 kV
+DSIDC Bawana,65005603/7290013476,"Near H Block, J.J. colony, Bawana Hanuman Mandir, Bawana,-110039",220 kV
+DIAL,25655090,"Near IGI Airport, Delhi",220 kV
+Electric Lane,23329790,"HCM Lane, Behind BSNL Building, Janpath, New Delhi.",220 kV
+Geeta Colony,22044528,"Near Sai Memorial Public School, Geeta Colony, Delhi -110031",220 kV
+Gazipur,22770009,"Village Gazipur, Near DDA Janta Flat, Delhi-110096",220 kV
+Gopalpur,27652190,"Near Burari, Outer Ring Road, Delhi-110009",220 kV
+Indraprastha,23370325,"IP Station, Delhi-110002",220 kV
+Khanjawala,25951677/25953185,"Near Police Station & DTC Depott., Ghewra Road, Delhi-110081",220 kV
+Kashmere Gate,23866577,"Kudasiya Ghat, Opp, I.S.B.T, Kashmeri Gate, Delhi-110006",220 kV
+Lodhi Road,24362750,"Near CGO Complex, Lodhi Road, New Delhi-110003",220 kV
+Maharani Bagh,26841323/26341324,"Maharani Bagh, Opp. Sarai Kale Khan ISBT, Behlolpur Khadar, Delhi - 110013",220 kV
+Masjid Moth,26241262,"Masjid Moth, Outer Ring Road, G.K.-I Near Chirag Delhi Flyover, Delhi-110048.",220 kV
+Mehrauli,26892360,"Near Vasant Kunj, D-2,, Kishangarh Village, New Delhi-1100­70",220 kV
+Najafgarh,69999237/69999238,"Opp. Delhi Jal Board Office, New Delhi-110043",220 kV
+Naraina,25699563,"Behind COD Bus Stand, Ring Road, Naraina, Delhi-Cantt, New Delhi-110010",220 kV
+Narela,27781434/22781771,"Piyo Maniyari Road, Near Kanya Gurkul, Narela, Delhi-110040",220 kV
+Okhla,29982007/29985044,"Opp. Pocket A-13, Kalkaji Extension, New Delhi-110019",220 kV
+Pappankalan-I,25085415/25080740,"Sector-2, Pappankalan, Phase-I, Delhi-110045",220 kV
+Papankalan-II,24506081,"Near Metro Rail Station, Sector-14, Dwarka, Delhi -110045.",220 kV
+Papankalan-III,,"Sector-19 B, Dwarka, New Delhi- 110075",220 kV
+Park Street,23744910/23364916,"Opp. Talkatora Stadium, Near RML Hospital, Park Street, New Delhi- 110001",220 kV
+Patparganj,22476611/22476241,"Near Mother Diary, Mandawali, Fazalpur, Delhi-110092",220 kV
+Peeragarhi,"25276576, 25276578-","A-1 Block Near Milansaar Apptt. Opp. A-1/266, Paschim Vihar, New Delhi- 110063",220 kV
+Pragati,23378308,"Pragti Power Station Complex, IP Estate, Ring Road, Delhi-110002",220 kV
+Preet Vihar,22372310,"Preet Vihar, Near Kadkadi Mod, Behind (Deepak Memorial Hospital), Delhi-110092",220 kV
+Rajghat Power House,26895886,"Control Room, Inside Rajghat Power House, New Delhi-110002",220 kV
+Ridge Valley,24112187,"Dhaula Kaun, Round About, New Delhi- 110021",220 kV
+Rohini-I,27573965,"Near F-2 Pocket, Rohini, Delhi-110085",220 kV
+Rohini-II,7428366440,"Phase-IV, Rohini Sector-29, Landmark Opp. CNG Pump Station, Delhi-110085",220 kV
+R. K. Puram,,"Sector-4, R. K. Puram, Near Sultani Masjid, New Delhi- 110022",220 kV
+Sarita Vihar,26940624/9643740060,"Opp. Pocket - E, Near Priyanka Complex, Sarita Vihar, Delhi - 110044",220 kV
+Shalimar Bagh,27854692,"Sector-19, Rohini, Opp. Rohini District, Jail, Delhi-110089",220 kV
+South of Wazirabad,22855028/22566216,"Opp. ViiI. Garhi, Near Khajuri Khas Chowk, Delhi-110053",220 kV
+Subzi Mandi,23855513,"Kabir Basti Road, Near Barafkhana Chowk,Subzi Mandi, Delhi-110007",220 kV
+Trauma Centre,32973334,"GIS, Trauma, IMS Center, Ansari Nagar, West, New Delhi",220 kV
+Tughlakabad,,"Behind Air Force Residential Quarter, Karni singh, Shooting Range Road (Suraj Kund Road) New Delhi- 110044",220 kV
+Vasant Kunj,26895886,"C-9 Vasant Kunj, Delhi-110070.",220 kV
+Wazirpur,27373358/27373359,"A Block, Wazirpur Industrial Area, New Delhi - 110052",220 kV
